@@ -1,1 +1,19 @@
 # tienda
+
+Fronted - 
+REACTJS,
+TAILWIND
+
+Backend - 
+NODEJS
+
+BBDD - 
+MONGODB
+
+Software - 
+NODE, 
+GIT, 
+DOCKET, 
+DOCKER-COMPOSE, 
+POSTMAN, 
+DOCKER COMPAS / TABLEPLUS
