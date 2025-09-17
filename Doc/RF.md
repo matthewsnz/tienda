@@ -1,6 +1,6 @@
 # Req. Funcionales
 
- ## actores 
+ ## Actores 
 - usuario no logueado
 - usuario logueado
 - administrador
