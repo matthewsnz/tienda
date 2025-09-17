@@ -10,6 +10,7 @@
 - Añarir al carrito
 - Eliminar del carrito
 - Comprar
+- Hacer Log in
 
 ### RF usuario logueado
 - Ver productos
@@ -18,6 +19,7 @@
 - Añadir productos a favoritos
 - Acceder al perfil de usuario
 - Gestionar su perfil
+- Hacer Log out
 
 ### RF administrador
 - Crear productos
